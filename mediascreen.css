@@ -1,0 +1,54 @@
+@media screen and (min-width: 100px) and (max-width: 900px) {
+  .imgAdmission {
+    margin-left: 0px;
+    height: 45px;
+    width: 120px;
+    background-color: black;
+    background-image: url(./logo\(1\).jpg);
+    background-size: contain;
+  }
+  .Admission-Open {
+    font-size: 25px;
+
+  }
+
+  .headder-contact {
+    padding: 8px 8px;
+    margin: 0px;
+    min-width: 130px;
+    max-width: 130px;
+    /* background-color: rgb(216, 216, 216); */
+  }
+  
+  .number {
+    border-top-left-radius: 20%;
+    top: 50%;
+    right: 0%;
+    background-color: red;
+    height: fit-content;
+    color: white;
+    padding: 12px 10px;
+    font-weight: 600;
+    font-size: 1em;
+    border-radius: 8px 0px 0px 0px;
+    min-width: 125px;
+  }
+  .Apply-now {
+    top: 65%;
+    min-width: 105px;
+    padding: 12px 10px;
+    font-weight: 900;
+    font-size: 1em;
+    border-radius: 0px 0px 0px 10px;
+    font-weight: bold;
+  }
+  .arrow {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+    padding-right: 5px;
+  }
+}
